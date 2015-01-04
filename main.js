@@ -3,6 +3,7 @@
 // Fraglesi.eu was here
 // cześć podglądacze ;-)
 // AD 2014
+// in Git
 
 var KNFG0 = {
 
